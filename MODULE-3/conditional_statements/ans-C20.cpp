@@ -29,7 +29,7 @@ main()
 		total += total*0.18;
 		
 	}
-	if(total<250){
+	if(total<256){
 		total = 256;
 	}
 	printf("\nCustomer ID:%d",ID);
