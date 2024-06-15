@@ -1,0 +1,20 @@
+
+
+
+Name: u
+Mark - 1: 9
+Mark - 2: 9
+Mark - 3: 9
+------------------------
+Total marks: 27
+Perctage id: 9
+fail..
+
+Name: t
+Mark - 1: 8
+Mark - 2: 8
+Mark - 3: 8
+------------------------
+Total marks: 24
+Perctage id: 8
+fail..
