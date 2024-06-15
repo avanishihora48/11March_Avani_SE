@@ -1,0 +1,20 @@
+
+
+
+Name:w 
+Mark - 1: 66
+Mark - 2: 78
+Mark - 3: 77
+------------------------
+Total marks:221 
+Perctage id:73.00 
+pass..
+
+Name:y 
+Mark - 1: 88
+Mark - 2: 90
+Mark - 3: 99
+------------------------
+Total marks:277 
+Perctage id:92.00 
+pass..

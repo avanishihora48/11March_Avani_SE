@@ -1,0 +1,6 @@
+
+
+Value is:2
+Number is Even
+Value is:5
+Number is odd
